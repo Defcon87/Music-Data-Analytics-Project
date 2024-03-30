@@ -1,2 +1,2 @@
-# Spotify-Data-Analytics-Project
+# Music-Data-Analytics-Project
 Data Analytics 6th semester project
